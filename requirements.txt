@@ -1,0 +1,7 @@
+streamlit
+numpy==1.26.4
+pandas
+scikit-learn
+tensorflow
+transformers==4.46.1
+torch==2.2.0+cpu
